@@ -1,5 +1,7 @@
 # Concrete-Crack-Images
 ![image](https://github.com/AILogoSkill/Concrete-Crack-Images/assets/144710374/60ca3747-2e61-44fb-8c42-a087ea9f7c61)
+
+
 Concrete is perhaps the most widely used building material globally and is one of the most important materials in civil construction, including its use in road construction. Strength is one of the main reasons concrete has been used in construction for many decades. It can easily handle loads associated with tension and compression without succumbing to their effects. Concrete is exceptionally robust and can last for many years, enduring harsh weather conditions and natural disasters, as it is rigid and resistant to deformation. However, these characteristics also mean that concrete structures lack flexibility and are unable to withstand environmental changes. The appearance of cracks is usually the first sign of concrete damage, and deterioration may occur before more significant defects become apparent.
 
 #Problem Statement
